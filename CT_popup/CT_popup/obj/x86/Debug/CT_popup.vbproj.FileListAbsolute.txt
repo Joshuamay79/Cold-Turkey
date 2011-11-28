@@ -1,0 +1,2 @@
+\\VBOXSVR\usb\Cold-Turkey\CT Popup\CT Popup\bin\Debug\CT_popup.exe.config
+\\VBOXSVR\usb\Cold-Turkey\CT Popup\CT_popup\bin\Debug\CT_popup.exe.config
